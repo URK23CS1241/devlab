@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pytest
+=======
+pytest
+>>>>>>> 0ed8978fd972746f29ead6f9caf3b8cffd8a0a96
